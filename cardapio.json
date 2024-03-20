@@ -1,0 +1,22 @@
+{
+    "short_name": "Combo Perfeito",
+    "name": "Combo Perfeito - Cardápio Online",
+    "icons": [
+        {
+            "src": "https://github.com/Alevital/cardapio_online/blob/main/Combo%20Perfeito.jpg?raw=true",
+            "type": "image/png",
+            "sizes": "192x192",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://github.com/Alevital/cardapio_online/blob/main/Combo%20Perfeito.jpg?raw=true",
+            "type": "image/png",
+            "sizes": "512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "start_url": "http://127.0.0.1:5500/cardapio.html",
+    "background_color": "#ec2121",
+    "display": "standalone",
+    "theme_color": "#ec2121"
+}
